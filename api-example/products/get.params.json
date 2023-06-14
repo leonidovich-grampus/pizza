@@ -1,0 +1,37 @@
+[
+    {
+        "paramsId": 1,
+        "title": "Соус сырный",
+        "type": "options",
+        "max": null,
+        "subtitle": "25г",
+        "img": "www.example.com/resources/images/souce123.png",
+        "price": 5
+    },
+    {
+        "paramsId": 32,
+        "title": "Соус карри",
+        "subtitle": "25г",
+        "type": "options",
+        "max": 10,
+        "img": "www.example.com/resources/images/souce123.png",
+        "price": 0
+    },
+    {
+        "paramsId": 21,
+        "title": "Сыр пармезан",
+        "type": "toppings",
+        "max": 15,
+        "subtitle": "25г",
+        "img": "www.example.com/resources/images/chese.png",
+        "price": 5
+    },
+    {
+        "paramsId": 32,
+        "type": "toppings",
+        "max": null,
+        "title": "Сыр гауда",
+        "img": "www.example.com/resources/images/souce123.png",
+        "price": 0
+    }
+]

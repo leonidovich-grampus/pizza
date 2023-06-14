@@ -1,0 +1,43 @@
+{
+    "productId": 1,
+    "title": "Пармеджано",
+    "desc": "Тесто для пиццы, соус пармеджано, моцарелла, сыр гауда, сыр чеддер, сыр пармезан, сушёный базилик. Пищевая ценность на 100 г.: Белки: 14.7 г.Жиры: 18.3 г. Углеводы: 32.6 г. Энергетическая ценность: 353 ккал / 1476 кДж",
+    
+    "variables": [
+        {
+            "varId": 1,
+            "label": "Большая",
+            "img": "www.example.com/resources/images/piz1-mod1.png",
+            "desc": "27 см 460 гр.",
+            "price": 590
+        },
+        {
+            "varId": 2,
+            "label": "Средняя",
+            "img": "www.example.com/resources/images/piz1-mod2.png",
+            "desc": "27 см 460 гр.",
+            "price": 590
+        }
+    ],
+    "params": [
+        1,
+        54,
+        6,
+        3,
+        2
+    ],
+    "combination?": [
+        {
+            "postitionName":"Пицца1",
+            "products":[23,42,5,7,9]
+        },
+        {
+            "postitionName":"Пицца2",
+            "products":[23,42,5,7,9]
+        },
+         {
+            "postitionName":"Напиток",
+            "products":[23,42,5,7,9]
+        }
+    ]
+}

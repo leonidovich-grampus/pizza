@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "productId": 1,
+      "title": "Пармеджано",
+      "short_description": "Мясная пицца с халапеньо и томатным соусом",
+      "img": "www.example.com/resources/images/piz1-mini.png",
+      "basePrice": 590,
+      "variable": true,
+      "params": true,
+      "combine": false,
+      "tags": [
+        {
+          "tagId": 1,
+          "label": "Новинка"
+        },
+        {
+          "tagId": 2,
+          "label": "Новинка"
+        },
+        {
+          "tagId": 3,
+          "label": "Детям"
+        }
+      ]
+    }
+  ]
+}

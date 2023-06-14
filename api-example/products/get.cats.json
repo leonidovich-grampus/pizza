@@ -1,0 +1,14 @@
+[
+    {
+        "cat_id": 1,
+        "parent_cat_id": null,
+        "label": "Пиццы",
+        "products":[1,3,5,7,8,9]
+    },
+    {
+        "cat_id": 2,
+        "parent_cat_id": 1,
+        "label": "Острые",
+        "products":[1,3,5,7,8,9]
+    }
+]
